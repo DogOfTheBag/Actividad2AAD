@@ -1,4 +1,4 @@
-/*programa  haga lo mismo que el ejemplo pero usando java nio*/
+/*programa que haga lo mismo que el ejemplo pero usando java nio*/
 /*************************************CODIGO DE EJEMPLO A SEGUIR*************************************
 package ficherosTexto;
 
